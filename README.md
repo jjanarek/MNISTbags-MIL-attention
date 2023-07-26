@@ -1,4 +1,4 @@
-# Weakly-supervised classification - report
+# Weakly-supervised classification problem: MNIST bags and attention mechanism
 
 ## How to use
 `dataset.py`: contains the pytorch Dataset class generating MNIST bags dataset 
